@@ -9,7 +9,8 @@ RUN npm install node-red-contrib-actionflows \
     node-red-contrib-eztimer \
     node-red-contrib-alexa-remote2 \
     node-red-contrib-chatbot \ 
-    node-red-contrib-time-range-switch
+    node-red-contrib-time-range-switch \
+    node-red-contrib-ssh-v3
     
     # node-red-contrib-telegrambot \
     # node-red-contrib-cec \
